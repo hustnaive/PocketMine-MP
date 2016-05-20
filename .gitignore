@@ -26,3 +26,7 @@ Desktop.ini
 # Sphinx-doc
 /docs/build/
 !/docs/requirements.txt
+
+.buildpath
+.project
+.settings/
